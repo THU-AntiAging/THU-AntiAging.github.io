@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Aging &amp; Rejuvenation Lab</title>
+    <link>https://THU-AntiAging.github.io/post/</link>
+      <atom:link href="https://THU-AntiAging.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://THU-AntiAging.github.io/media/logo_hu16433655222847344930.png</url>
+      <title>Latest News</title>
+      <link>https://THU-AntiAging.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Welcome to the Aging &amp; Rejuvenation Lab</title>
+      <link>https://THU-AntiAging.github.io/post/2025-09-01-welcome/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://THU-AntiAging.github.io/post/2025-09-01-welcome/</guid>
+      <description>&lt;p&gt;We are excited to launch the &lt;strong&gt;Aging &amp;amp; Rejuvenation Lab (ARL)&lt;/strong&gt; at the Tsinghua University School of Medicine.&lt;/p&gt;
+&lt;p&gt;We are recruiting motivated graduate students and postdoctoral researchers. If you are interested in aging biology, epigenetics, or computational genomics, please &lt;a href=&#34;https://THU-AntiAging.github.io/contact/&#34;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin | Aging &amp; Rejuvenation Lab</title>
+    <link>https://THU-AntiAging.github.io/zh/author/admin/</link>
+      <atom:link href="https://THU-AntiAging.github.io/zh/author/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>admin</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://THU-AntiAging.github.io/media/logo_hu16433655222847344930.png</url>
+      <title>admin</title>
+      <link>https://THU-AntiAging.github.io/zh/author/admin/</link>
+    </image>
+    
+    <item>
+      <title>欢迎来到衰老与年轻化实验室</title>
+      <link>https://THU-AntiAging.github.io/zh/post/2025-09-01-welcome/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://THU-AntiAging.github.io/zh/post/2025-09-01-welcome/</guid>
+      <description>&lt;p&gt;我们很高兴在清华大学医学院正式成立&lt;strong&gt;衰老与年轻化实验室（Aging &amp;amp; Rejuvenation Lab, ARL）&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我们正在招聘有志于衰老生物学、表观遗传学或计算基因组学方向的研究生和博士后。如感兴趣，欢迎&lt;a href=&#34;https://THU-AntiAging.github.io/zh/contact/&#34;&gt;联系我们&lt;/a&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
