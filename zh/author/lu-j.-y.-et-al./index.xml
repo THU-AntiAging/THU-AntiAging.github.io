@@ -1,16 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lu, J. Y. et al. | Aging &amp; Rejuvenation Lab</title>
+    <title>Lu, J. Y. Et Al. | Aging &amp; Rejuvenation Lab</title>
     <link>https://THU-AntiAging.github.io/zh/author/lu-j.-y.-et-al./</link>
       <atom:link href="https://THU-AntiAging.github.io/zh/author/lu-j.-y.-et-al./index.xml" rel="self" type="application/rss+xml" />
-    <description>Lu, J. Y. et al.</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <description>Lu, J. Y. Et Al.</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://THU-AntiAging.github.io/media/logo_hu16433655222847344930.png</url>
-      <title>Lu, J. Y. et al.</title>
+      <title>Lu, J. Y. Et Al.</title>
       <link>https://THU-AntiAging.github.io/zh/author/lu-j.-y.-et-al./</link>
     </image>
+    
+    <item>
+      <title>Mesenchymal drift: A convergent framework for the hallmarks of aging</title>
+      <link>https://THU-AntiAging.github.io/zh/publication/lu-2026-cell-mesenchymal-drift-review/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://THU-AntiAging.github.io/zh/publication/lu-2026-cell-mesenchymal-drift-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Proteomics Reveals Hallmarks of Mammalian Lifespan Control</title>
+      <link>https://THU-AntiAging.github.io/zh/publication/lu-2025-comparative-proteomics/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://THU-AntiAging.github.io/zh/publication/lu-2025-comparative-proteomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevalent mesenchymal drift in aging and disease is reversed by partial reprogramming</title>
+      <link>https://THU-AntiAging.github.io/zh/publication/lu-2025-cell-mesenchymal-drift/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://THU-AntiAging.github.io/zh/publication/lu-2025-cell-mesenchymal-drift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative transcriptomics reveals circadian and pluripotency networks as two pillars of longevity regulation</title>
+      <link>https://THU-AntiAging.github.io/zh/publication/lu-2022-cell-metabolism/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://THU-AntiAging.github.io/zh/publication/lu-2022-cell-metabolism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homotypic clustering of L1 and B1/Alu repeats compartmentalizes the 3D genome</title>
+      <link>https://THU-AntiAging.github.io/zh/publication/lu-2021-cell-research/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://THU-AntiAging.github.io/zh/publication/lu-2021-cell-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic repeats categorize genes with distinct functions for orchestrated regulation</title>
+      <link>https://THU-AntiAging.github.io/zh/publication/lu-2020-cell-reports-repeats/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://THU-AntiAging.github.io/zh/publication/lu-2020-cell-reports-repeats/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

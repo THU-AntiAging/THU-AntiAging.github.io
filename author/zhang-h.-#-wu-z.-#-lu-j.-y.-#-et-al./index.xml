@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zhang, H. #, Wu, Z. #, Lu, J. Y. # et al. | Aging &amp; Rejuvenation Lab</title>
+    <title>Zhang, H. #, Wu, Z. #, Lu, J. Y. # Et Al. | Aging &amp; Rejuvenation Lab</title>
     <link>https://THU-AntiAging.github.io/author/zhang-h.-%23-wu-z.-%23-lu-j.-y.-%23-et-al./</link>
       <atom:link href="https://THU-AntiAging.github.io/author/zhang-h.-%23-wu-z.-%23-lu-j.-y.-%23-et-al./index.xml" rel="self" type="application/rss+xml" />
-    <description>Zhang, H. #, Wu, Z. #, Lu, J. Y. # et al.</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <description>Zhang, H. #, Wu, Z. #, Lu, J. Y. # Et Al.</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://THU-AntiAging.github.io/media/logo_hu16433655222847344930.png</url>
-      <title>Zhang, H. #, Wu, Z. #, Lu, J. Y. # et al.</title>
+      <title>Zhang, H. #, Wu, Z. #, Lu, J. Y. # Et Al.</title>
       <link>https://THU-AntiAging.github.io/author/zhang-h.-%23-wu-z.-%23-lu-j.-y.-%23-et-al./</link>
     </image>
+    
+    <item>
+      <title>DEAD-box helicase 18 counteracts PRC2 to safeguard ribosomal DNA in pluripotency regulation</title>
+      <link>https://THU-AntiAging.github.io/publication/zhang-2020-cell-reports-ddx18/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://THU-AntiAging.github.io/publication/zhang-2020-cell-reports-ddx18/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

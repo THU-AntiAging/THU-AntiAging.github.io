@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yin, Y., Yan, P., Lu, J. Y. Et Al. | Aging &amp; Rejuvenation Lab</title>
+    <title>Yin, Y., Yan, P., Lu, J. Y. et al. | Aging &amp; Rejuvenation Lab</title>
     <link>https://THU-AntiAging.github.io/author/yin-y.-yan-p.-lu-j.-y.-et-al./</link>
       <atom:link href="https://THU-AntiAging.github.io/author/yin-y.-yan-p.-lu-j.-y.-et-al./index.xml" rel="self" type="application/rss+xml" />
-    <description>Yin, Y., Yan, P., Lu, J. Y. Et Al.</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <description>Yin, Y., Yan, P., Lu, J. Y. et al.</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
       <url>https://THU-AntiAging.github.io/media/logo_hu16433655222847344930.png</url>
-      <title>Yin, Y., Yan, P., Lu, J. Y. Et Al.</title>
+      <title>Yin, Y., Yan, P., Lu, J. Y. et al.</title>
       <link>https://THU-AntiAging.github.io/author/yin-y.-yan-p.-lu-j.-y.-et-al./</link>
+    </image>
+    
+  </channel>
+</rss>
+lu-j.-y.-et-al./</link>
     </image>
     
     <item>
